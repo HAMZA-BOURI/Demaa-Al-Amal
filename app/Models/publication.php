@@ -1,0 +1,22 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class publication extends Model
+{
+    use HasFactory;
+
+    protected $fillable = [
+        'Titre',
+        'Description',
+        'Type_blood',
+        'location',
+        'Status',
+        'UserName',
+        'Ville',
+        'Date_Public'
+    ];
+}
