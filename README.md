@@ -78,8 +78,10 @@ Also there is an authentication button (sign in) which changes if you have an ac
 <h3>Sing Up Page</h3>
 <p>To create an account:
 There are two possibilities:
-    o Or a donor.
-    o Either a visitor or a patient.
+<ul>
+    <li>o Or a donor.</li>
+    <li>o Either a visitor or a patient.</li>
+</ul>
 If the user is a donor:
 The fields will be filled by email and password automatically.</p>
 <img src="./public/Image WibSite/Sing-Up.png" width="400" alt="Sing Up/In Page">
