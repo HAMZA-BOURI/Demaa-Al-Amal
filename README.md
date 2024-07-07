@@ -76,12 +76,12 @@ Also there is an authentication button (sign in) which changes if you have an ac
 <H5><p>This page is for the admin and user for account creation.</p></H5>
 <img src="./public/Image WibSite/Sing-In.png" width="400" alt="Sing Up/In Page">
 <h3>Sing Up Page</h3>
-<H5><p>To create an account:
+<p>To create an account:
 There are two possibilities:
     o Or a donor.
     o Either a visitor or a patient.
 If the user is a donor:
-The fields will be filled by email and password automatically.</p></H5>
+The fields will be filled by email and password automatically.</p>
 <img src="./public/Image WibSite/Sing-Up.png" width="400" alt="Sing Up/In Page">
 <H5><p>If the user is a visitor or patient:
         A form will be displayed:</p></H5>
