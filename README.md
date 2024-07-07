@@ -67,5 +67,22 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Demaa Al Amal Website
 <h3>Home Page</h3>
-<H5>home page for the latest version</H5>
-<img src="./public/Image WibSite/Page-Home.png" width="400" alt="Page Home">
+<H5><p>On this page, we find a menu bar where there is a logo with the name, and publication process and contact and centers.
+Also there is an authentication button (sign in) which changes if you have an account (Profile).</p></H5>
+<img src="./public/Image WibSite/Page-Home.png" width="400" alt="Home Page">
+<h3>Center Maps Page</h3>   
+<img src="./public/Image WibSite/Center-Page.png" width="400" alt="Center Page">
+<h3>Sing Up/In Page</h3>
+<H5><p>This page is for the admin and user for account creation.</p></H5>
+<img src="./public/Image WibSite/Sing-In.png" width="400" alt="Sing Up/In Page">
+<h3>Sing Up Page</h3>
+<H5><p>To create an account:
+There are two possibilities:
+    o Or a donor.
+    o Either a visitor or a patient.
+If the user is a donor:
+The fields will be filled by email and password automatically.</p></H5>
+<img src="./public/Image WibSite/Sing-Up.png" width="400" alt="Sing Up/In Page">
+<H5><p>If the user is a visitor or patient:
+        A form will be displayed:</p></H5>
+<img src="./public/Image WibSite/Create-User.png" width="400" alt="Create User Page">
