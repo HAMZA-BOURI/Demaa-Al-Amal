@@ -69,7 +69,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 <h3>Home Page</h3>
 <H5><p>On this page, we find a menu bar where there is a logo with the name, and publication process and contact and centers.
 Also there is an authentication button (sign in) which changes if you have an account (Profile).</p></H5>
-<img align="center" src="./public/Image WibSite/Page-Home.png" width="400" alt="Home Page">
+<p align="center"><img  src="./public/Image WibSite/Page-Home.png" width="400" alt="Home Page"></p>
 <h3>Center Maps Page</h3>   
 <img src="./public/Image WibSite/Center-Page.png" width="400" alt="Center Page">
 <h3>Sing Up/In Page</h3>
