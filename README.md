@@ -1,10 +1,5 @@
 <p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><img src="./public/assets/Image/Demaa Al-Amal Logo.png" width="400" alt="Demaa Al-Amal Logo"></a></p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/hamzabouri/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="linkedin Account" width="80"></a>
-<a href="https://www.instagram.com/_hamza_bouri/"><img src="https://www.meilleure-innovation.com/wp-content/uploads/2021/05/logo-instagram-png-transparent.png" alt="Instagram Account" width="80"></a>
-<a href="mailto:hamzabouri.pro@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png" alt="Gmail Account" width="80"></a>
-</p>
 
 ## Demaa Al Amal Website
 <h3>Home Page</h3>
@@ -50,3 +45,9 @@ The fields will be filled by email and password automatically.</p>
 
 
 ## My Contacts
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hamzabouri/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="linkedin Account" width="80"></a>
+<a href="https://www.instagram.com/_hamza_bouri/"><img src="https://www.meilleure-innovation.com/wp-content/uploads/2021/05/logo-instagram-png-transparent.png" alt="Instagram Account" width="80"></a>
+<a href="mailto:hamzabouri.pro@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png" alt="Gmail Account" width="80"></a>
+</p>
