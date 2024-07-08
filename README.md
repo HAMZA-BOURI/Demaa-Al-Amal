@@ -69,7 +69,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 <h3>Home Page</h3>
 <H5><p>On this page, we find a menu bar where there is a logo with the name, and publication process and contact and centers.
 Also there is an authentication button (sign in) which changes if you have an account (Profile).</p></H5>
-<img src="./public/Image WibSite/Page-Home.png" width="400" alt="Home Page">
+<img align="center" src="./public/Image WibSite/Page-Home.png" width="400" alt="Home Page">
 <h3>Center Maps Page</h3>   
 <img src="./public/Image WibSite/Center-Page.png" width="400" alt="Center Page">
 <h3>Sing Up/In Page</h3>
@@ -84,7 +84,7 @@ There are two possibilities:
 </ul>
 If the user is a donor:
 The fields will be filled by email and password automatically.</p>
-<img src="./public/Image WibSite/Sing-Up.png" width="400" alt="Sing Up/In Page">
+<img  src="./public/Image WibSite/Sing-Up.png" width="400" alt="Sing Up/In Page">
 <H5><p>If the user is a visitor or patient:</p>
         <p>A form will be displayed:</p></H5>
 <img src="./public/Image WibSite/Create-User.png" width="400" alt="Create User Page">
