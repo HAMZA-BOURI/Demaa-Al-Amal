@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><img src="./public/assets/Image/Demaa Al-Amal Logo.png" width="400" alt="Demaa Al-Amal Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -95,7 +95,7 @@ The fields will be filled by email and password automatically.</p>
 <p align="center"><img src="./public/Image WibSite/Donor.jpg" width="400" alt="Donor Account Page"></p>
 <h3>Publication Page</h3>
 <H5><p>If blood is needed, the user announces a publication (He can add, modify, delete a publication)</p></H5>
-<img src="./public/Image WibSite/Pub.jpg" width="400" alt="Publication Page">
+<p align="center"><img src="./public/Image WibSite/Pub.jpg" width="400" alt="Publication Page"></p>
 <h3>Publication Page</h3>
 <H5><p>On this page there is the list of donors, donations, stock and publication.
         Also, there are statistics by year for each male and female.</p></H5>
