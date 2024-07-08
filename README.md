@@ -100,3 +100,14 @@ The fields will be filled by email and password automatically.</p>
 <H5><p>On this page there is the list of donors, donations, stock and publication.
         Also, there are statistics by year for each male and female.</p></H5>
 <img src="./public/Image WibSite/Admin.png" width="400" alt="Admin Page">
+<h3>ADD New Center Page</h3>
+<H5><p>Add centers and manage employees.</p></H5>
+<img src="./public/Image WibSite/new-Center.png" width="400" alt="Admin Page">
+<h3>List Center Page</h3>
+<H5><p>Manage centers and requests.</p></H5>
+<img src="./public/Image WibSite/Center-list.png" width="400" alt="Admin Page">
+
+
+## My Contacts
+
+<spin><i class="fa-brands fa-facebook"></i></spin>
