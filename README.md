@@ -43,6 +43,13 @@ The fields will be filled by email and password automatically.</p>
 <H5><p>Manage centers and requests.</p></H5>
 <p align="center"><img src="./public/Image WibSite/Center-list.png" width="400" alt="Admin Page"></p>
 
+## how to run the project
+<p>1- Clone the repository</p>
+<p>2- Run the command : composer install</p>
+<p>3- Run the command : php artisan migrate</p>
+
+<p>4- Run the command : php artisan db:seed</p>
+<p>5- Run the command : php -S 127.0.0.1:8000 -t public</p>
 
 ## My Contacts
 
