@@ -45,11 +45,11 @@ The fields will be filled by email and password automatically.</p>
 
 ## how to run the project
 <p>1- Clone the repository</p>
-<p>2- Run the command : composer install</p>
-<p>3- Run the command : php artisan migrate</p>
+<p>2- Run the command :<pre> composer install</pre></p>
+<p>3- Run the command :<pre> php artisan migrate</pre></p>
 
-<p>4- Run the command : php artisan db:seed</p>
-<p>5- Run the command : php -S 127.0.0.1:8000 -t public</p>
+<p>4- Run the command :<pre> php artisan db:seed</pre></p>
+<p>5- Run the command :<pre> php -S 127.0.0.1:8000 -t public</pre></p>
 
 ## My Contacts
 
